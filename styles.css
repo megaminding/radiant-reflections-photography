@@ -108,6 +108,22 @@ body {
     text-decoration: none;
     
   }
+  #button {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 15px 15px;
+    gap: 10px;
+    background: #544431;
+    border-radius: 21px;
+    color: white;
+    font-family: 'Montserrat';
+    font-size: 1.3rem;
+    font-weight: 500;
+    display: inline-block;
+    text-decoration: none;
+    
+  }
   
   .button:hover {
     background: #6c5f4b;
