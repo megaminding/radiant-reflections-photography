@@ -7,4 +7,4 @@ function addComment() {
     var container = document.getElementById("comments-container");
     container.appendChild(newparagraphelement);
   }
-  console.log('hi');
+  console.log('ok');
