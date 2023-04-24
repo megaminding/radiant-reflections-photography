@@ -92,7 +92,7 @@ body {
     font-family: 'Montserrat';
   }
   
-  .button {
+  #button {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
