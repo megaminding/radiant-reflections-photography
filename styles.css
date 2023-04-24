@@ -108,12 +108,13 @@ body {
     text-decoration: none;
     
   }
-  /* #button {
-    margin-top: 10px
+  
+
+  .button {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
-    padding: 15px 15px;
+    padding: 10px 10px;
     gap: 10px;
     background: #544431;
     border-radius: 21px;
@@ -124,8 +125,7 @@ body {
     display: inline-block;
     text-decoration: none;
     
-  } */
-  
+  }
   .button:hover {
     background: #6c5f4b;
   }
