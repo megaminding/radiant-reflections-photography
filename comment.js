@@ -1,10 +1,10 @@
 function addComment() {
     var comment = document.getElementById("comment").value;
-    var para = document.createElement("p");
-    var node = document.createTextNode(comment);
-    para.appendChild(node);
+    var newparagraphelement = document.createElement("p");
+    var newcomment = document.createTextNode(comment);
+    newparagraphelement.appendChild(newcomment);
   
     var container = document.getElementById("comments-container");
-    container.appendChild(para);
+    container.appendChild(newparagraphelement);
   }
   console.log('hi');
