@@ -189,3 +189,7 @@ body {
     text-align: center;
   }
   
+  #contact-info {
+    display: none;
+  }
+  
