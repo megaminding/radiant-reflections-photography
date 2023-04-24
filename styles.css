@@ -108,7 +108,7 @@ body {
     text-decoration: none;
     
   }
-  #button {
+  /* #button {
     margin-top: 10px
     display: flex;
     flex-direction: row;
@@ -124,7 +124,7 @@ body {
     display: inline-block;
     text-decoration: none;
     
-  }
+  } */
   
   .button:hover {
     background: #6c5f4b;
